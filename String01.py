@@ -6,4 +6,4 @@ def main(s):
     Returns:
         str: answer
     """
-    return s.title
+    return s.title()
