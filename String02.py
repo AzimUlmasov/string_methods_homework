@@ -7,4 +7,4 @@ def main(s):
         str: answer
     """
     
-    return
+print('apple is a fruit'.upper())
