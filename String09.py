@@ -7,4 +7,4 @@ def main(s):
         int: answer
     """
     
-    return s.index('e')
+    return s.count('a')
